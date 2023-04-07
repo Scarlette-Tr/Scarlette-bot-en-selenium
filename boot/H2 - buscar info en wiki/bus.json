@@ -1,0 +1,19 @@
+{
+    "buscar":[
+        {
+            "id":"1",
+            "bus":"Seleniun"
+        },{
+            "id":"2",
+            "bus":"python"
+        },
+        {
+            "id":"2",
+            "bus":"Angular"
+        },
+        {
+            "id":"2",
+            "bus":"typescript"
+        }
+    ]
+}
